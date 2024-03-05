@@ -1,0 +1,47 @@
+Project Overview
+I would be using PartyRock to develop a 'Daily Task Scheduler Application' aimed at enhancing our productivity and organization. For those not familiar with PartyRock, it's a new platform offered by AWS designed to simplify app development through the use of generative AI.
+
+Steps to be performed
+Generating the daily task scheduler application
+Changes in existing widgets
+Adding new widgets
+Publishing your app
+
+Services Used
+AWS PartyRock: A fun playground offered by AWS to build applications with generative AI. It helps you make your own apps with AI
+
+Steps
+
+Getting Started
+Visit the website : https://partyrock.aws/
+Create your first application by clicking on ‘Build your own app’.
+Describe what you would like the app to do. Let’s go for something fun here!
+Click on Generate app, get some snacks and let PartyRock do the work for you!
+We just created an application without any coding pre-requisites, using prompt engineering
+We can also remix applications created by others to have a copy and change it according to our preference by clicking on the ‘Remix’ button present on the top right of the application page.
+
+Generate daily task scheduler appliation
+Navigate to AWS PartyRock : https://partyrock.aws/
+Click on ‘Build your own app’ and enter an appropriate prompt.
+Click on ‘Generate App’ and wait for PartyRock to do the work for you!
+PartyRock generated an application which takes tasks to be done as an input, gives the schedule according to priorities, and even provides a chatbot to refine your schedule!
+
+Modify existling widgets
+You can resize the blocks present by clicking and dragging the bottom right corner of the block for organizing them
+You can edit your widget by clicking on the Edit option in the top right corner.
+The ‘prompt’ section from Edit Schedule tab is used to provide prompt to the model on which the output is generated. We can reference a widget using @widget_name in the prompt
+
+Add new widgets
+Click on ‘Add Widget’ on the top left of your screen to add a widget. Choose an user input widget.
+You can change the name and placeholder of your widget.
+Now let’s give this widget as an input for preparation of schedule. We can change the prompt to enter the time required for each task.
+Click on Save and check your new schedule.
+Add a motivation quote widget to generate a motivational quote and a photo generator to generate a motivational image and get you kickstarted with your day
+
+Publish application
+Click on ‘Make public and share button’ present on the top right corner of the website.
+Anyone with this link can see, use or remix your application.
+Here is my daily task scheduler application: https://partyrock.aws/u/shola187/T03gGGBSB/Daily-Task-Scheduler-Generator
+
+
+
